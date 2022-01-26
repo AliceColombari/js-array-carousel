@@ -20,7 +20,7 @@
     height: 60vh;
 }
 
-/* image left */
+/* IMAGE LEFT */
 .container-left {
     width: 80%;
     height: 100%;
@@ -56,13 +56,13 @@
 }
 
 .item p {
-    font-size: 20px;
+    font-size: 18px;
     padding-top: 2px;
 }
 
 
 
-/* image right */
+/* IMAGE RIGHT */
 .container-right {
     width: 20%;
     height: 100%;
